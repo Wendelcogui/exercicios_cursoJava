@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>exercicio_024_POO</name>
+	<name>exercicio_046_caminho_de_um_arquivo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1678801071854</id>
+			<id>1678801071915</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
